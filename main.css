@@ -1,0 +1,47 @@
+ body {
+            background-color: cornflowerblue;
+            color: azure;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+
+        a:link {
+            color: azure;
+        }
+
+        /* visited link */
+        a:visited {
+            color: azure;
+        }
+
+        /* mouse over link */
+        a:hover {
+            color: azure;
+        }
+
+        /* selected link */
+        a:active {
+            color: azure;
+        }
+
+        li {
+            margin: 2px;
+            padding: 2px;
+        }
+
+        .block {
+            background-color: darkcyan;
+            margin: 10px;
+            padding: 10px;
+            width: 400px;
+        }
+
+
+
+        .btn-manage{
+            position: fixed;
+            top: 95%;
+            left: 95%;
+            width: 55px;
+            height: 55px;
+        }
